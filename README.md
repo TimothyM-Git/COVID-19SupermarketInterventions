@@ -14,3 +14,10 @@ Please note changes in text labels (Widget Font-size) in the interface may occur
 Minor fix in the bug allows widget font to return to normal size when zoom level is reset using 'Ctrl' and '0'.
 
 Some devices may note a reduction/change in the size of the viewing window, such that it does not align with monitors as originaly set, this too is the result of a known "bug" in the NetLogo software described in https://github.com/NetLogo/NetLogo/issues/409
+
+
+
+
+
+
+Investigating the Effectiveness of Supermarket Transmission Control Measures on the Spread of COVID-19 in the Presence of Super-Spreaders through Agent-Based Modelling © 2022 by Timothy Mountford is licensed under Attribution-NonCommercial-ShareAlike 4.0 International. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/
